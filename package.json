@@ -1,0 +1,16 @@
+{
+  "name": "sasclase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+   
+    "scss":"node-sass --watch scss -o css"
+  },
+  "author": "Johana",
+  "license": "ISC",
+  "dependencies": {
+   
+    "node-sass": "^5.0.0"
+  }
+}

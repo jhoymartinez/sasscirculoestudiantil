@@ -1,0 +1,19 @@
+// colores
+$dark-green-title: red;
+$dark-green-text: #135359;
+$white: yellow;
+
+/** Fuentes*/
+$font-title: "Alegreya", serif;
+
+%base-title{ //herencia
+    font-family:$font-title;
+    color: $dark-green-title;
+    display: flex;
+    font-size: 30px;
+
+}
+
+
+
+

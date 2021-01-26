@@ -1,0 +1,40 @@
+/** Fuentes*/
+.title {
+  font-family: "Alegreya", serif;
+  color: red;
+  display: flex;
+  font-size: 30px; }
+
+.blog {
+  background-color: yellow;
+  width: 100%;
+  padding: 30px;
+  display: flex; }
+
+.proce-list {
+  margin-top: 20px;
+  margin-bottom: 36px; }
+  .proce-list .process {
+    margin-bottom: 25px; }
+    .proce-list .process > div > h3 {
+      color: red;
+      margin-bottom: 0;
+      font-size: 30px;
+      font-weight: 500; }
+    .proce-list .process > div > p {
+      color: #135359;
+      margin: 0; }
+    .proce-list .process .process-icon {
+      width: 60px;
+      height: 60px;
+      margin-right: 10px;
+      text-align: center; }
+      .proce-list .process .process-icon img {
+        height: 100px; }
+  .proce-list button {
+    height: auto;
+    border-top-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    padding: 12px;
+    width: 180px;
+    margin-bottom: 15px; }
